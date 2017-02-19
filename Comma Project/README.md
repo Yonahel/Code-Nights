@@ -7,3 +7,7 @@ First Goal: Make a 2d bit map representation of a bird's eye view of the road, u
 
 -----Useful Info---------
 Highway markers are 10 ft long, the space between them is 30 ft
+
+Colors of lanes in 0_0.jpg:
+White section: RGB: 236, 237, 219
+Black Section: RGB: 64, 62, 41
