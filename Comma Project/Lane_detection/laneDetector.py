@@ -1,0 +1,1 @@
+testerPic = 'testerpic.jpg'
